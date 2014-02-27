@@ -1,0 +1,17 @@
+{
+    "installed_packages": [
+        "AngularJS",
+        "DashDoc",
+        "DocBlockr",
+        "Dust.js",
+        "HTML5",
+        "JsFormat",
+        "JSHint Gutter",
+        "Monokai Gray",
+        "Syntax Highlighting for Sass",
+        "Terminal",
+        "Theme - Phoenix",
+        "Theme - Soda",
+        "Todo"
+    ]
+}

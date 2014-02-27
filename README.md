@@ -1,4 +1,5 @@
-sublimetextsettings
+Sublime Text: My Settings
 ===================
 
-My settings for sublime
+My settings for Sublime Text
+
